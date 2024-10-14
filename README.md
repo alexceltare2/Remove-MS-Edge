@@ -18,7 +18,8 @@ Flags - Remove-Edge.exe
 ```
 - Lenovo USB Recovery Creator Tool
 - Quicken
-- Windows Mail  
+- Teams (new)
+- Outlook (new)
 - Xbox App  
 ```
 
